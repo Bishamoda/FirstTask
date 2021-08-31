@@ -2,13 +2,13 @@
 
 #How to install this App
 
-Clone this app on your computer (select the folder yourself) with comand:
+Clone this app on your computer (select the folder yourself) with comand:  
 git clone https://github.com/Bishamoda/FirstTask.git
 
-Open "CMD" in folder (which were chosen earlier). Write commands:
-cd Console_calc
-dotnet build
-dotnet run
+Open "CMD" in folder (which were chosen earlier). Write commands:  
+cd Console_calc  
+dotnet build  
+dotnet run  
 
 #How it works
 
