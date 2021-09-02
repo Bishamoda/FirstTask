@@ -1,3 +1,4 @@
+![консольный калк](https://user-images.githubusercontent.com/63037087/131790440-20fde816-3e3d-482a-b568-ca323b7eebb6.PNG)
 
 # FirstIssue
 
